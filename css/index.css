@@ -1,0 +1,27 @@
+body{
+	width: 100%;
+	overflow-x: hidden;
+}
+form{
+	margin-top: 2rem;
+}
+
+.carousel-inner img{
+	padding: 1em;
+	max-height: 35em;
+
+}
+.carousel{
+	margin: 0 auto;
+}
+footer{
+margin-top: 20px; 
+min-height: 10em;
+}
+footer img{
+	margin-top:.5em; 
+	width: 2.5em;
+}
+.lead{
+	font-size: 2.5em;
+}
